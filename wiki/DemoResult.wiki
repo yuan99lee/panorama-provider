@@ -1,0 +1,6 @@
+#labels Featured
+#It's the demo result.
+
+|| image1 || image2 || Result ||
+|| http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/TestImages/PICT0126a.png || http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/TestImages/PICT0127a.png ||http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/results/UCFA_Lake.jpg ||
+|| http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/TestImages/green_nature1.jpg || http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/TestImages/green_nature2.jpg ||http://panorama-provider.googlecode.com/svn/trunk/%20panorama-provider%20--username%20walkingmu/results/green_nature.jpg ||
